@@ -1,4 +1,4 @@
-console.log('hy')
+console.log()
 
 let generteButton=document.getElementById('generate-btn');
 
